@@ -5,7 +5,7 @@ import styles from './style.module.css';
 
 export default function Missions() {
   return (
-    <div data-testid="missions">
+    <div>
       <section className={ styles.missions_title }>
         <Title headline="MISSÕES" />
       </section>

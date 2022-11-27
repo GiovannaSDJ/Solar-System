@@ -5,7 +5,7 @@ import styles from './style.module.css';
 
 export default function SolarSystem() {
   return (
-    <div data-testid="solar-system">
+    <div>
       <section className={ styles.title }>
         <Title headline="PLANETAS" />
       </section>
