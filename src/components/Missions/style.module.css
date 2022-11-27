@@ -1,0 +1,19 @@
+.missions_title {
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  margin: 60px auto;
+  padding: 5px;
+  width: 300px;
+}
+
+.missions_board {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 30px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.9);
+  margin: auto auto 30px;
+  padding: 35px;
+  width: 1098px;
+}

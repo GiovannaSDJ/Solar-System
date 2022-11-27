@@ -1,0 +1,43 @@
+.planets_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+}
+
+.planet_name {
+  display: flex;
+  justify-content: center;
+}
+
+.Mercúrio {
+  width: 40px;
+}
+
+.Vênus {
+  width: 102px;
+}
+
+.Terra {
+  width: 106px;
+}
+
+.Marte {
+  width: 66px;
+}
+
+.Júpiter {
+  width: 272px;
+}
+
+.Saturno {
+  width: 282px;
+}
+
+.Urano {
+  width: 144px;
+}
+
+.Netuno {
+  width: 144px;
+}

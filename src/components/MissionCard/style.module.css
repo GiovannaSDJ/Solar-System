@@ -1,0 +1,38 @@
+.mission_card {
+  width: 496px;
+  height: 192px;
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid white;
+  border-radius: 17px;
+  margin: 10px;
+}
+
+.mission_name {
+  padding: 30px;
+  font-size: 27px;
+  text-transform: uppercase;
+}
+
+.mission_info {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  border-top: 1px solid white;
+  font-size: 18px;
+  padding: 22px;
+}
+
+.year {
+  text-align: center;
+  width: 33%;
+}
+
+.country {
+  text-align: center;
+  width: 33%;
+}
+
+.destination {
+  text-align: center;
+  width: 33%;
+}
